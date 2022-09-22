@@ -86,7 +86,7 @@ function App() {
       style={[styles.root, { backgroundColor: activeTheme.backgroundColor }]}
     >
       <Text style={[styles.title, { color: activeTheme.textColor }]}>
-        Battle Math
+         Math
       </Text>
       <Picker
         selectedValue={mode}
