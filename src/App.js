@@ -1,4 +1,5 @@
-import logo from './logo.svg';
+//import logo from './logo.svg';
+import React from 'react';
 import {Stylesheet, Text, View} from "react-native";
 import './App.css';
 import { Component } from 'react';
